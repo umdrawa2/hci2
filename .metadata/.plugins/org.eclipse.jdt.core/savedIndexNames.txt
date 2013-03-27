@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Users\R. Draward\Documents\GitHub\hci2\.metadata\.plugins\org.eclipse.jdt.core
+2883610668.index
+848856923.index
+2643700057.index
